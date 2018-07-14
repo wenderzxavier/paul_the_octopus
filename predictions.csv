@@ -1,0 +1,49 @@
+home,home_score,away_score,away
+Russia,4,0,Saudi Arabia
+Egypt,0,2,Uruguay
+Morocco,3,1,IR Iran
+Portugal,3,3,Spain
+France,3,1,Australia
+Argentina,3,1,Iceland
+Peru,0,2,Denmark
+Croatia,2,0,Nigeria
+Costa Rica,0,2,Serbia
+Germany,2,0,Mexico
+Brazil,2,0,Switzerland
+Sweden,1,1,Korea Republic
+Belgium,4,2,Panama
+Tunisia,0,3,England
+Colombia,1,1,Japan
+Poland,0,0,Senegal
+Russia,4,0,Egypt
+Portugal,2,0,Morocco
+Uruguay,1,1,Saudi Arabia
+IR Iran,0,4,Spain
+Denmark,1,1,Australia
+France,3,1,Peru
+Argentina,4,4,Croatia
+Brazil,3,1,Costa Rica
+Nigeria,1,1,Iceland
+Serbia,0,0,Switzerland
+Belgium,3,1,Tunisia
+Korea Republic,0,2,Mexico
+Germany,2,0,Sweden
+England,3,1,Panama
+Japan,1,1,Senegal
+Poland,4,4,Colombia
+Saudi Arabia,0,0,Egypt
+Uruguay,0,2,Russia
+Spain,2,0,Morocco
+IR Iran,0,3,Portugal
+Australia,1,1,Peru
+Denmark,0,2,France
+Nigeria,0,2,Argentina
+Iceland,0,2,Croatia
+Korea Republic,0,2,Germany
+Mexico,0,0,Sweden
+Switzerland,2,0,Costa Rica
+Serbia,0,2,Brazil
+Japan,1,1,Poland
+Senegal,0,0,Colombia
+England,9,9,Belgium
+Panama,1,1,Tunisia
